@@ -4,7 +4,7 @@ layout: default
 ### [About Me ](./index.md) || [Portfolio ](./portfolios.md) || [Resume ](./resume.md) || [Work With Me ](./workwithme.md)
 ***
 <div class="card">
-  <h3>Why Work With Me:</h3>
+  <h3>Why Work With Me</h3>
   <ul>
     <li>Customer Oriented – Understand and satisfy customer/business needs.</li>
     <li>Problem Solver– Proficient in building machine learning models and apply to solve problems.</li>
