@@ -28,6 +28,7 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/sudiadhikari
+  <!---
   - name: Projects
     icon: <i class="fa-solid fa-file-code"></i>
     link: ./projects
@@ -37,3 +38,4 @@ platforms:
   - name: Open Source
     icon: <i class="fa-solid fa-ghost"></i>
     link: ./open-source
+--->
