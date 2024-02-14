@@ -4,7 +4,7 @@ email: sudiadhikari@gmail.com
 description: SDE @ Open. Python Developer. Machine Learning.
 favicon: true
 color-scheme: light
-theme: jekyll-theme-minimal
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 google_analytics: G-0RXV630V8X
 
