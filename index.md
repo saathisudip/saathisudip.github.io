@@ -2,12 +2,12 @@
 layout: default
 ---
 ### [About Me ](./index.md)  [Projects ](./pages/projects.md) [Certifications ](./pages/certifications.md) [Opensource ](./pages/opensource.md)
-
-<h1 style="margin-bottom:4px;">&nbsp;[About Me ](./index.md)&nbsp; [About Me ](./index.md) &nbsp; Go</h1>
-******
+****
 <p style="margin-bottom:4px;">&#x2022; Python &#x2022; Java &#x2022; Go</p>
 
 <h1 style="margin-bottom:4px;">&nbsp; Python &nbsp; Java &nbsp; Go</h1>
+<a href="http://stackoverflow.com"><h1> stackoverflow </h1></a>
+
 
 I am **Sudip Adhikari**, a software developer from **USA**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
