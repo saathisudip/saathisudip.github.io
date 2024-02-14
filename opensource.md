@@ -2,7 +2,7 @@
 layout: default
 ---
 ### [About Me ](./index.md) || [Projects ](./projects.md) || [Certifications ](./certifications.md) || [Opensource ](./opensource.md)
-
+***
 <div class="card">
   <h3>Minimalistic Jekyll Theme</h3>
   <p><b>Ruby, Jekyll and Github Pages</b></p>
