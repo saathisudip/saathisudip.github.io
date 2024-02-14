@@ -2,7 +2,7 @@ title: Sudip Adhikari
 logo: /assets/profile.png
 email: sudiadhikari@gmail.com
 description: Machine Learning Engineer || Data Scientist || NLP || TensorFlow || Python ||Scikit-learn
-favicon: false
+favicon: true
 color-scheme: light
 remote_theme: saathisudip/jekyll-theme-minimalistic
 
