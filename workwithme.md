@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### [About Me ](./index.md) || [Projects ](./projects.md) || [Certifications ](./certifications.md) || [Opensource ](./opensource.md)
+### [About Me ](./index.md) || [Portfolio ](./portfolios.md) || [Resume ](./resume.md) || [Work With Me ](./workwithme.md)
 ***
 <div class="card">
   <h3>Google Go Specialization</h3>
