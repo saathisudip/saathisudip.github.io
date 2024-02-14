@@ -4,7 +4,7 @@ layout: default
 ### [About Me ](./index.md) || [Portfolio ](./portfolios.md) || [Resume ](./resume.md) || [Work With Me ](./workwithme.md)
 ***
 <div class="card">
-  <h3>American Express || New York, NY $--$(Sep 2021 - Present)</h3>
+  <h3>American Express || New York, NY --- (Sep 2021 - Present)</h3>
   <p><b>Machine Learning Engineer | Data Scientist</b></p>
   <ul>
     <li>Utilize advanced algorithms such as Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Bayesian
@@ -36,7 +36,7 @@ layout: default
 </div>
 
 <div class="card">
-  <h3>Dish Network || Englewood, CO &nbsp &nbsp &nbsp   (Jan 2019 - Aug 2021)</h3>
+  <h3>Dish Network || Englewood, CO --- (Jan 2019 - Aug 2021)</h3>
   <p><b>Data Scientist</b></p>
   <ul>
     <li>Spearheaded machine learning initiatives, utilizing TensorFlow, Keras, and Support Vector Machines (SVM) with various kernels to
