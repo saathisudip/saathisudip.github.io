@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: /projects
 ---
 ### [About Me ](../index.md) || [Projects ](./projects.md) || [Certifications ](./certifications.md) || [Opensource ](./opensource.md)
 
