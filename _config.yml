@@ -1,6 +1,6 @@
 title: Sudip Adhikari
 logo: /assets/profile.png
-email: sudiadhikari@gmail.com
+#email: sudiadhikari@gmail.com
 description: Machine Learning Engineer || Data Scientist || NLP || TensorFlow || Python ||Scikit-learn
 favicon: true
 color-scheme: light
@@ -19,6 +19,9 @@ platforms:
   - name: Charlotte, NC, USA
     icon: <i class="fa fa-map-marker" aria-hidden="true"></i>
     link: https://github.com/saathisudip
+  - name: Email
+    icon: <i class="fa fa-envelope" aria-hidden="true"></i>
+    link: mailto:sudiadhikari@gmail.com
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/sudiadhikari
