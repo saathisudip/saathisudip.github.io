@@ -17,7 +17,7 @@ plugins:
 
 platforms:
   - name: Charlotte, NC, USA
-    icon: <i class="fa-brands fa-location"></i>
+    icon: <i class="fa-brands fa-location-pin"></i>
     link: https://github.com/saathisudip
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
