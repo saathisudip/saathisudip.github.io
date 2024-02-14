@@ -5,7 +5,7 @@ layout: default
 ******
 <p style="margin-bottom:4px;">&#x2022; Python &#x2022; Java &#x2022; Go</p>
 
-<p style="margin-bottom:4px;">&nbsp; Python &nbsp; Java &nbsp; Go</p>
+# <p style="margin-bottom:4px;">&nbsp; Python &nbsp; Java &nbsp; Go</p>
 
 I am **Sudip Adhikari**, a software developer from **USA**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
