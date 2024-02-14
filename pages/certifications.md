@@ -2,7 +2,8 @@
 layout: default
 permalink: /certifications
 ---
-## Certifications:
+### [About Me ](./index.md) || [Projects ](./pages/projects.md) || [Certifications ](./pages/certifications.md) || [Opensource ](./pages/opensource.md)
+****
 
 <div class="card">
   <h3>Google Go Specialization</h3>
