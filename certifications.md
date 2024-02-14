@@ -2,7 +2,7 @@
 layout: default
 ---
 ### [About Me ](./index.md) || [Projects ](./projects.md) || [Certifications ](./certifications.md) || [Opensource ](./opensource.md)
-
+***
 <div class="card">
   <h3>Google Go Specialization</h3>
   <p><b>Coursera</b>, October 2022<br>
