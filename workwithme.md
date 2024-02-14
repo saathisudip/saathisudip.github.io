@@ -6,13 +6,13 @@ layout: default
 <div class="card">
   <h3>Why Work With Me:</h3>
   <ul>
-    <li>Customer oriented – Understand and satisfy customer/business needs.</li>
-    <li>Problem solver– Proficient in building machine learning models and apply to solve problems.</li>
-    <li>Result oriented – Focused on delivering solutions to meet customer/projects/business needs.</li>
+    <li>Customer Oriented – Understand and satisfy customer/business needs.</li>
+    <li>Problem Solver– Proficient in building machine learning models and apply to solve problems.</li>
+    <li>Result Oriented – Focused on delivering solutions to meet customer/projects/business needs.</li>
     <li>Innovative Problem-Solver: I thrive on tackling challenging problems and transforming concepts into practical, scalable solutions.</li>
     <li>Collaborative Team Player: I enjoy collaborating with multidisciplinary teams to achieve project goals and foster a culture of continuous learning.</li>
     <li>Passion for Learning: Committed to staying updated with the latest advancements in machine learning and AI technologies.</li>
-    <li>Great ability to work on multiple projects independently or as a member of the project team.</li>
+    <li>Individual Contributer and Team Player: Great ability to work on multiple projects independently or as a member of the project team.</li>
   </ul>
   <a href="https://www.google.com"><span class="card-link-spanner"></span></a>
 </div>
