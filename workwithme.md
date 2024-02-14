@@ -14,7 +14,7 @@ layout: default
     <li>Passion for Learning: Committed to staying updated with the latest advancements in machine learning and AI technologies.</li>
     <li>Great ability to work on multiple projects independently or as a member of the project team.</li>
   </ul>
-  <a href="https://www.google.com</a>
+  <a href="https://www.google.com"><span class="card-link-spanner"></span></a>
 </div>
 <---
 <div class="card">
