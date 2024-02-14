@@ -2,7 +2,7 @@
 layout: default
 permalink: /certifications
 ---
-### [About Me ](./index.md) || [Projects ](./pages/projects.md) || [Certifications ](./pages/certifications.md) || [Opensource ](./pages/opensource.md)
+### [About Me ](../index.md) || [Projects ](./projects.md) || [Certifications ](./certifications.md) || [Opensource ](./opensource.md)
 ****
 
 <div class="card">
