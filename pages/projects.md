@@ -2,7 +2,7 @@
 layout: default
 permalink: /projects
 ---
-## Projects:
+### [About Me ](../index.md) || [Projects ](./projects.md) || [Certifications ](./certifications.md) || [Opensource ](./opensource.md)
 
 <div class="card">
   <h3>Housing Price Prediction</h3>
