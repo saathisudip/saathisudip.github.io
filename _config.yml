@@ -16,6 +16,9 @@ plugins:
   - jekyll-sitemap
 
 platforms:
+  - name: Charlotte, NC, USA
+    icon: <i class="fa-brands fa-location"></i>
+    link: https://github.com/saathisudip
   - name: Résumé
     icon: <i class="fa-solid fa-file-lines"></i>
     link: ./assets/resume.pdf
