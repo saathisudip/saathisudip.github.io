@@ -16,7 +16,7 @@ layout: default
   </ul>
   <a href="https://www.google.com"><span class="card-link-spanner"></span></a>
 </div>
-<---
+<!---
 <div class="card">
   <h3>Python Specialization</h3>
   <p><b>Coursera</b>, August 2020<br>
@@ -30,4 +30,4 @@ layout: default
   Credential Id: MDAP6XXV2QCM</p>
   <a href="https://www.coursera.org/account/accomplishments/certificate/MDAP6XXV2QCM"><span class="card-link-spanner"></span></a>
 </div>
----/>
+--->
