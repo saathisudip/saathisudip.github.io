@@ -2,7 +2,7 @@
 layout: default
 permalink: /open-source
 ---
-## Open Source Contributions:
+### [About Me ](../index.md) || [Projects ](./projects.md) || [Certifications ](./certifications.md) || [Opensource ](./opensource.md)
 
 <div class="card">
   <h3>Minimalistic Jekyll Theme</h3>
