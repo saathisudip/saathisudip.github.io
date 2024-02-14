@@ -19,23 +19,24 @@ platforms:
   - name: Charlotte, NC, USA
     icon: <i class="fa fa-map-marker" aria-hidden="true"></i>
     link: https://github.com/saathisudip
-  - name: Résumé
-    icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/resume.pdf
-  - name: GitHub
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/saathisudip
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/sudiadhikari
-  <!---
-  - name: Projects
-    icon: <i class="fa-solid fa-file-code"></i>
-    link: ./projects
-  - name: Certifications
-    icon: <i class="fa-solid fa-award"></i>
-    link: ./certifications
-  - name: Open Source
-    icon: <i class="fa-solid fa-ghost"></i>
-    link: ./open-source
---->
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/saathisudip
+  - name: Resume
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: ./assets/resume.pdf
+  
+#
+  #- name: Projects
+  #  icon: <i class="fa-solid fa-file-code"></i>
+  #  link: ./projects
+  #- name: Certifications
+  #  icon: <i class="fa-solid fa-award"></i>
+  #  link: ./certifications
+  #- name: Open Source
+  #  icon: <i class="fa-solid fa-ghost"></i>
+  #  link: ./open-source
+
