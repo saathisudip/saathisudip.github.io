@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### &nbsp;[About Me ](./index.md) &nbsp; [Projects ](./pages/projects.md)&nbsp; [Certifications ](./pages/certifications.md) &nbsp; [Opensource ](./pages/opensource.md)
+### [About Me ](./index.md)  [Projects ](./pages/projects.md) [Certifications ](./pages/certifications.md) [Opensource ](./pages/opensource.md)
 ******
 
 I am **Sudip Adhikari**, a software developer from **USA**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
