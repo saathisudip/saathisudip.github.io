@@ -1,11 +1,8 @@
 ---
 layout: default
 ---
-### [About Me ](./index.md)  [Projects ](./pages/projects.md) [Certifications ](./pages/certifications.md) [Opensource ](./pages/opensource.md)
+### [About Me ](./index.md) || [Projects ](./pages/projects.md) || [Certifications ](./pages/certifications.md) || [Opensource ](./pages/opensource.md)
 ****
-<a href="http://stackoverflow.com"><h1> Stackoverflow </h1></a>
-
-
 I am **Sudip Adhikari**, a software developer from **USA**. I have a great experience in Python, Go, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning. I like to explore technologies and keep on developing new projects.
 
 I am currently a **Engineer** at **Incorporated.** (Dallas, TX), where I am working on [Incorporated](https://www.github.com).
