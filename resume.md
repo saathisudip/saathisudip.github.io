@@ -100,7 +100,6 @@ layout: default
     <li>Applied advanced MapReduce and Zookeeper strategies for improved data coordination and management in distributed systems, with
     a commitment to data security.</li>
     <li>Managed version control with Bitbucket and Git, alongside build tools like Maven, ensuring the security of applications.</li>
-    
   </ul>
   <a href="https://www.google.com"><span class="card-link-spanner"></span></a>
 </div>
