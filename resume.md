@@ -95,7 +95,7 @@ layout: default
     <li>Specialized in Elasticsearch, focusing on data security across various projects.</li>
     <li>Engineered secure REST APIs for data retrieval, emphasizing data security throughout the development process.</li>
     <li>Oversaw the creation and monitoring of secure data pipelines in numerous projects, ensuring data integrity and confidentiality.</li>
-    <li>Enhanced Postgres query performance by implementing data partitioning on large datasets, improving secure data management.
+    <li>Enhanced Postgres query performance by implementing data partitioning on large datasets, improving secure data management.</li>
     <li>Led the transition from static Spark 2 to dynamic Spark 3 using HELM charts, optimizing data processing and security.</li>
     <li>Applied advanced MapReduce and Zookeeper strategies for improved data coordination and management in distributed systems, with
     a commitment to data security.</li>
@@ -103,12 +103,6 @@ layout: default
   </ul>
   <a href="https://www.google.com"><span class="card-link-spanner"></span></a>
 </div>
-
-
-
-
-
-
 
 <!--
 <div class="card">
