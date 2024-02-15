@@ -15,7 +15,7 @@ For the last seven years, my professional journey has been immersed in the realm
 My journey includes [X years] of hands-on experience in [specific industries or projects], where I've leveraged advanced analytics to [specific achievements or impact]. Proficient in data visualization tools (Tableau, matplotlib), I excel in communicating findings to diverse audiences, empowering informed decisions.
 Eager to tackle new challenges and contribute expertise in optimizing processes, predicting trends, and unlocking opportunities, I'm enthusiastic about exploring collaborations in the dynamic field of data science. Let's connect and explore how I can add value to your team!"--->
 
-My Expertise:
+My Expertise
 ======
 * Algorithm Development: Proficient in designing and implementing machine learning algorithms, optimizing for accuracy, efficiency, and scalability.
 * Model Deployment: Skilled in deploying models into production environments, ensuring seamless integration and performance.
@@ -23,7 +23,7 @@ My Expertise:
 * Natural Language Processing (NLP): Capable of working with text data, sentiment analysis, language translation, and other NLP tasks.
 * Computer Vision: Adept at image recognition, object detection, and image generation using state-of-the-art techniques.
 
-Let's Connect:
+Let's Connect
 ======
 I'm excited about the possibilities that machine learning offers and am always open to discussing new opportunities, collaborations, or innovative projects. Please feel free to reach out to explore how we can work together to drive technological advancement through machine learning.
 
