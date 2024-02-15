@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### [About Me ](./index.md) || [Portfolio ](./portfolios.md) || [Resume ](./resume.md) || [Work With Me ](./workwithme.md)
+### [About Me ](./index.md) || [Portfolio ](./portfolios.md) || [Experience ](./experience.md) || [Work With Me ](./workwithme.md)
 ***
 <div class="card">
   <h3>American Express || New York, NY - (Sep 2021 - Present)</h3>
