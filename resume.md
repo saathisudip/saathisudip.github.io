@@ -4,7 +4,7 @@ layout: default
 ### [About Me ](./index.md) || [Portfolio ](./portfolios.md) || [Resume ](./resume.md) || [Work With Me ](./workwithme.md)
 ***
 <div class="card">
-  <h3>American Express || New York, NY --- (Sep 2021 - Present)</h3>
+  <h3>American Express || New York, NY - (Sep 2021 - Present)</h3>
   <p><b>Machine Learning Engineer | Data Scientist</b></p>
   <ul>
     <li>Utilize advanced algorithms such as Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Bayesian
@@ -36,7 +36,7 @@ layout: default
 </div>
 
 <div class="card">
-  <h3>Dish Network || Englewood, CO --- (Jan 2019 - Aug 2021)</h3>
+  <h3>Dish Network || Englewood, CO - (Jan 2019 - Aug 2021)</h3>
   <p><b>Data Scientist</b></p>
   <ul>
     <li>Spearheaded machine learning initiatives, utilizing TensorFlow, Keras, and Support Vector Machines (SVM) with various kernels to
@@ -63,10 +63,50 @@ layout: default
     networks (RNNs), to enhance predictive modeling and personalize customer interactions.</li>
     <li>Worked alongside data architects to refine and implement strategic data management and analytics frameworks, significantly boosting
     the company's capability to leverage big data for competitive advantage.</li>
-      
   </ul>
   <a href="https://www.google.com"><span class="card-link-spanner"></span></a>
 </div>
+
+<div class="card">
+  <h3>Transamerica || Cedar Rapids, IA - (May 2017 - Dec 2018)</h3>
+  <p><b>Data Engineer</b></p>
+  <ul>
+    <li>Led the development of advanced data processing applications using Apache Spark, AWS Glue, Python, and Apache Airflow, ensuring
+    strict compliance with cybersecurity standards.</li>
+    <li>Utilized Python and Scala to build secure data pipelines in a Hadoop environment, with a focus on data security and integrity.</li>
+    <li>Authored and optimized ETL scripts with AWS Glue, developed ingestion scripts for AWS RDS and S3, and set up CI/CD pipelines
+    that met cybersecurity requirements.</li>
+    <li>Automated large-scale ETL processes employing Apache Spark, Hive, and Lambda architecture, prioritizing data security for
+    international clients.</li>
+    <li>Implemented big data processing with Apache Spark, Spark Components, and Sqoop, designed secure ETL pipelines for data
+    warehouse ingestion, and utilized Spark Streaming and Apache Kafka for real-time data streaming, emphasizing data protection.</li>
+    <li>Managed secure AWS configurations, using services such as EC2, S3, VPC, RDS, DynamoDB, and Redshift, and ensured the security
+    of LAMP-based applications and data backups via S3.</li>
+    <li>Led secure migrations to AWS, executed AWS Redshift deployments, designed virtual servers with Ansible, integrated Tableau for
+    data visualization, and maintained cybersecurity standards compliance.</li>
+    <li>Deployed secure Docker containers with Kubernetes, managed scaling and load balancing, and established comprehensive monitoring
+    and logging with SPLUNK, ELK, and Sense on AWS.</li>
+    <li>Automated AWS infrastructure management using Chef and Ansible, utilized Amazon Route53 for DNS management and load
+    balancing, with a strong emphasis on cybersecurity.</li>
+    <li>Developed Python-based ingestion scripts for daily data loads into AWS RDS and S3, optimizing for security and efficiency with
+    Apache Airflow.</li>
+    <li>Processed real-time streaming data via Azure Event Hubs, developed secure Tableau BI dashboards for metrics reporting, and
+    configured Grafana dashboards for automated tracking and alerts.</li>
+    <li>Specialized in Elasticsearch, focusing on data security across various projects.</li>
+    <li>Engineered secure REST APIs for data retrieval, emphasizing data security throughout the development process.</li>
+    <li>Oversaw the creation and monitoring of secure data pipelines in numerous projects, ensuring data integrity and confidentiality.</li>
+    <li>Enhanced Postgres query performance by implementing data partitioning on large datasets, improving secure data management.
+    <li>Led the transition from static Spark 2 to dynamic Spark 3 using HELM charts, optimizing data processing and security.</li>
+    <li>Applied advanced MapReduce and Zookeeper strategies for improved data coordination and management in distributed systems, with
+    a commitment to data security.</li>
+    <li>Managed version control with Bitbucket and Git, alongside build tools like Maven, ensuring the security of applications.</li>
+    
+  </ul>
+  <a href="https://www.google.com"><span class="card-link-spanner"></span></a>
+</div>
+
+
+
 
 
 
