@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### [About Me ](./index.md) || [Portfolio ](./portfolios.md) || [Resume ](./resume.md) || [Work With Me ](./workwithme.md)
+### [About Me ](./index.md) || [Portfolio ](./portfolios.md) || [Experience ](./experience.md) || [Work With Me ](./workwithme.md)
 ***
 
 Hi there! I am Sudip Adhikari, a warm welcome to my page!!
