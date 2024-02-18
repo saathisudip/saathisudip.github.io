@@ -16,7 +16,9 @@ layout: default
 -As the technology is evolving on a daily basis, there has been a notable surge in the emergence of unicorn startups over the last 15 years. The list of unicorn companies can be found in wide variety of sources from internet. In this project the unicorn companies data was taken from a business analytics platform called [CBS Insights](https://www.cbinsights.com/research-unicorn-companies/). Beautiful soup was used to perform webscraping to get the data from 2007 to 2023 including different fields such as company name, evaluation, geographical distribution, funding sources etc. Data was cleaned and EDA was performed using Python, Pandas and matplotlib. The primary goal of this article is to uncover and aummarize the key characteristics of the data using graphical representatios, and to be able to answer questions such as:
 
 -*Can we get the number of unicorn companies founder per year from 20007 to 2023?*
+
 -*Can we get the distribution of age of unicorn startup versus the valuation in $Billions?*
+
 -*Can we get the top 10 most valued companies?*
 
 
