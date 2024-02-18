@@ -19,7 +19,7 @@ layout: default
 
 -*Can we get the distribution of age of unicorn startup versus the valuation in $Billions?*
 
--*Can we get the top 10 most valued companies?*
+-*Can we get the names of top 10 most valued companies?*
 
 
 
