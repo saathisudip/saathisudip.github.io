@@ -4,7 +4,7 @@ layout: default
 ## Exploratory Data Analysis (EDA) - Unicorn Companies
 **Purpose : Exploratory Data Analysis**
 
-**Languages, Libraries and Tools : Python, Google Colab, Pandas, Matplotlib**
+**Languages, Libraries and Tools : Python, Google Colab, Pandas, Matplotlib, Seaborn, Geopandas, Beautiful Soup**
 
 **Exploratory Data Analysis (EDA)**
 - Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main characteristics, often with the help of graphical representations and statistical techniques. The primary goal of EDA is to uncover patterns, trends, relationships, and potential outliers within the data.During EDA, data analysts or scientists visually inspect and summarize the main features of the dataset, such as the distribution of values, relationships between variables, and any unusual patterns. This process helps in gaining a deeper understanding of the data, identifying potential issues or patterns that may require further investigation, and informing the development of more advanced analytical models.Common techniques used in exploratory data analysis include summary statistics, histograms, scatter plots, box plots, and correlation matrices. EDA is a crucial step in the data analysis pipeline, laying the groundwork for more in-depth analyses and aiding in the formulation of hypotheses for further testing.
@@ -21,8 +21,8 @@ layout: default
 
 -*Can we get the names of top 10 most valued companies?*
 
-**Here you can find the [code](www.google.com) for Web Scraping.**
+**Here you can find the [code](https://github.com/saathisudip/Exploratory-Data-Analysis-of-Unicorn-Companies/blob/main/Web_scarping_Unicorn_Companies.ipynb) for Web Scraping.**
 
-**Here you can find the [code](www.google.com) for the EDA.**
+**Here you can find the [code](https://github.com/saathisudip/Exploratory-Data-Analysis-of-Unicorn-Companies/blob/main/Exploratory_Data_Analysis_Unicorn_Companies.ipynb) for the EDA.**
 
 [Back to Portfolio](./portfolios.md)
