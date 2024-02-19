@@ -21,7 +21,8 @@ layout: default
 
 -*Can we get the names of top 10 most valued companies?*
 
-Here you can find the [code](www.google.com) for Web Scraping.
-Here you can find the [code](www.google.com) for the EDA.
+**Here you can find the [code](www.google.com) for Web Scraping.**
+
+**Here you can find the [code](www.google.com) for the EDA.**
 
 [Back to Portfolio](./portfolios.md)
