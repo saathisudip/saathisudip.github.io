@@ -28,9 +28,9 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/saathisudip
-  - name: Resume
-    icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./assets/resume.pdf
+ # - name: Resume
+ #   icon: <i class="fa-solid fa-file-lines"></i>
+ #   link: ./assets/resume.pdf
   
 #
   #- name: Projects
